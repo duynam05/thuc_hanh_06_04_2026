@@ -29,3 +29,4 @@ class CategoryForm
         ]);
     }
 }
+// add slug logic
